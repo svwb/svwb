@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 - 🔭 I’m currently working on new JS Front-end courses
 - 🌱 I’m currently learning JS/Git/GreenSock/UI&UX
 - 👯 I’m looking to collaborate on Front-end projects
